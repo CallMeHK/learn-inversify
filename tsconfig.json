@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node",
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "module": "commonjs",
+    "sourceMap": true,
+    "lib": [
+      "esnext"
+    ],
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
